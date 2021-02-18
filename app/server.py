@@ -2,7 +2,7 @@ import aiohttp
 import asyncio
 import uvicorn
 
-!pip install -Uqq fastbook
+pip install -Uqq fastbook
 import fastbook
 fastbook.setup_book()
 
