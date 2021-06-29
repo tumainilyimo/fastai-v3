@@ -11,7 +11,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/sh/phg12o64ne70n76/AADzayLH84HkYFaYmvWqd6RRa?dl=1'
+export_file_url = 'https://www.dropbox.com/s/kr9fomyzt2rkcwc/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['Coccidiosis', 'Healthy', 'Newcastle', 'Salmonella']
